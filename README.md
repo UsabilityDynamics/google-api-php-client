@@ -18,7 +18,7 @@ http://developers.google.com/api-client-library/php
 
 ## Installation ##
 
-You can use **Composer** or simply **Download the Release**
+You can use **Composer** or simply **Download the Release** 
 
 ### Composer
 
